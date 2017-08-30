@@ -1,3 +1,4 @@
- > Clone this one
- > Start powershell and run : 
- mvn clean verify
+ > Clone this one  
+ > Start Powershell and run :    
+ `mvn clean verify`
+ 
